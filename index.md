@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/ml1238/Fitness4You/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Links
+
+Problem Statement: https://github.com/ml1238/Fitness4You/blob/gh-pages/problem.md
+User Stories: https://github.com/ml1238/Fitness4You/blob/gh-pages/userstories.md
+Requirements: https://github.com/ml1238/Fitness4You/blob/gh-pages/requirements.md
+Architecture: https://github.com/ml1238/Fitness4You/blob/gh-pages/architecture.md
+Design Document: https://github.com/ml1238/Fitness4You/blob/gh-pages/design.md
+Test Report: https://github.com/ml1238/Fitness4You/blob/gh-pages/testreport.md
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +44,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
