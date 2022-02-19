@@ -6,12 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Links
 
-Problem Statement: https://github.com/ml1238/Fitness4You/blob/gh-pages/problem.md
-User Stories: https://github.com/ml1238/Fitness4You/blob/gh-pages/userstories.md
-Requirements: https://github.com/ml1238/Fitness4You/blob/gh-pages/requirements.md
-Architecture: https://github.com/ml1238/Fitness4You/blob/gh-pages/architecture.md
-Design Document: https://github.com/ml1238/Fitness4You/blob/gh-pages/design.md
-Test Report: https://github.com/ml1238/Fitness4You/blob/gh-pages/testreport.md
+Problem Statement: https://github.com/ml1238/Fitness4You/blob/gh-pages/problem.md <br />
+User Stories: https://github.com/ml1238/Fitness4You/blob/gh-pages/userstories.md <br />
+Requirements: https://github.com/ml1238/Fitness4You/blob/gh-pages/requirements.md <br />
+Architecture: https://github.com/ml1238/Fitness4You/blob/gh-pages/architecture.md <br />
+Design Document: https://github.com/ml1238/Fitness4You/blob/gh-pages/design.md <br />
+Test Report: https://github.com/ml1238/Fitness4You/blob/gh-pages/testreport.md <br />
 
 ### Markdown
 
