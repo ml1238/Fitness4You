@@ -1,3 +1,2 @@
-# Fitness4You
-This is a group project Repository with group members Mike Lopez, Gerald Herrera, and Jason Joe.
-The link to our project site: https://ml1238.github.io/Fitness4You/
+# Fitness4You - Demo 1 <br />
+This Demo includes basic functionality of our website, with some working links and links that do not lead to anywhere specific at this time, however they are there for future functionaility. Our project also has a program written in Python that runs an Amazon EC2 instance that allows for a public website. We also have a program that takes a CSV file and parses it, where statistical data is calculated and outputted to the end user in a way that is meaningful and easy to understand. 
