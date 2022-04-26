@@ -1,2 +1,2 @@
-# Fitness4You - Demo 2 <br />
-This is a release of Demo 2 v0.2, the updates include more back end coding and planning that does not get fully reflected in our presentation. The website code is not yet fully developed, but is enough to start a website that displays basic functionality. We have a Python program that inputs an XML file from the Apple Health app and can create output that can then be used in a Java program we have to calculate a leaderboard based on values from a multitude of users.
+# Fitness4You
+This is a group project Repository with group members Mike Lopez, Gerald Herrera, Jason Joe, and Aydyn Bush.

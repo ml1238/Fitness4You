@@ -1,0 +1,16 @@
+Mike Lopez III - Fitness4U
+
+Implementation:
+I was not very involved in terms of implementation. Gerald took on the Web app part of the
+demonstration, and Jason took care of the Python program that read the health data and outputted the
+data correctly. In terms of implementation the most I did was introduce ideas, and bring up niche scenarios
+that our program could run into.
+
+Documentation:
+This was a very different story, in terms of documentation of the GitHub page, other than the regular 
+uploads of information from Gerald and Jason from their own programs, I was incharge with everything
+GitHub related in terms of bi-weekly assignments, the pages, etc. Although this was not an agreement between
+the team and I at the beginning of the project, as time went on it became an unspoken relationship where
+I would take care of the GitHub page, and they would provide the program. I believe I was doing much less
+work than the other two, hence my low score on all peer evaluations I submitted. I hope this does not
+effect my grade too much, but I do understand if it will.
