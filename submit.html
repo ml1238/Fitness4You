@@ -1,0 +1,20 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+<!--Title card-->
+<h1>Submit file:</h1>
+
+<form enctype="multipart/form-data" method="post" action="/submit/">
+  {% csrf_token %}
+  {{form.as_p}}
+  <!--
+  <input id="id_doc" type="file" name="doc">
+  -->
+  <button type="submit"> Submit</button>
+
+</form>
+
+<br></br>
+<!--This is a hyperlink to the home page-->
+<a href="http://127.0.0.1:8000">Go To Home Page</a>
+{% endblock %}
