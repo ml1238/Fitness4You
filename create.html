@@ -1,0 +1,15 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+<h1>Create page</h1>
+<br></br>
+
+<form method="post" action = "/create/">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button type="submit", name="save">Create New</button>
+</form>
+
+<br></br>
+<a href="http://127.0.0.1:8000">Go To Home Page</a>
+{% endblock %}
